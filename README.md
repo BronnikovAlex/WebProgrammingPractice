@@ -3,6 +3,6 @@
 </h1>
 <ul>
     <li>
-        <b>Практика1:</b>https://disk.yandex.ru/i/ibkm2mXYTU-i2A
+        <b>Практика1 :</b> https://disk.yandex.ru/i/ibkm2mXYTU-i2A
     </li>
 </ul>
