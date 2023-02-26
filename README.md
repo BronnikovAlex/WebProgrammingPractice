@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Отчёты по Web-Programming</b>
+    <b>Отчёты по Web-ProgrammingPractic</b>
 </h1>
 <ul>
     <li>
